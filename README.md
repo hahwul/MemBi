@@ -1,10 +1,10 @@
-# MEMBI
+# MemBi
 (Member of Bugbounty and Infosec)
 
 All the members of bugbounty and infosec. If you don't know who to follow, see!
 
-## What is Membe?
-Membi is all the members of bugbounty and infosec project. 
+## What is MemBi?
+MemBi is all the members of bugbounty and infosec project. 
 If you don't know who to follow, see!
 
 ## Contributors and how to contribute?
