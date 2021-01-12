@@ -1,9 +1,13 @@
-![membi](https://user-images.githubusercontent.com/13212227/104335303-9cab5080-5536-11eb-8055-d8bf062b4fb1.png)
-
-*Member of Bugbounty and Infosec<br>*
-![](https://img.shields.io/badge/PRs-welcome-blue)
-![CodeQL](https://github.com/hahwul/MemBi/workflows/CodeQL/badge.svg)
-![Contributors](https://github.com/hahwul/MemBi/workflows/Contributors/badge.svg)
+<p align="center">
+  <br>
+  <a href=""><img src="https://user-images.githubusercontent.com/13212227/104335303-9cab5080-5536-11eb-8055-d8bf062b4fb1.png" alt="" width="300px;"></a>
+  <br>
+  <b>Mem</b>ber of <b>B</b>ugbounty and <b>I</b>nfosec
+  <br>
+  <img src="https://img.shields.io/badge/PRs-welcome-cyan">
+  <img src="https://github.com/hahwul/MemBi/workflows/CodeQL/badge.svg">
+  <img src="https://github.com/hahwul/MemBi/workflows/Contributors/badge.svg">
+</p>
 
 ## 🤔 What is MemBi? 
 MemBi is all the members of bugbounty and infosec project. 
