@@ -10,6 +10,7 @@
 | bugcrowd  | bugcrowd username    | hahwul                    |
 | intigriti | intigriti username   |                           |
 | yeswehack | yeswehack username   |                           |
+| medium    | medium username      |                           |
 | youtube   | youtube link         | https://youtube.com/c/하훌 |
 | instagram | instagram username   | hahwul_                   |
 | facebook  | facebook username    |                           |

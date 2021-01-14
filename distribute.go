@@ -22,6 +22,7 @@ type MemberData struct {
 	Facebook string   `toml:"facebook"`
 	Reddit string `toml:"reddit"`
 	Stackoverflow string `toml:"stackoverflow"`
+	Medium string `toml:"medium"`
 }
 func main(){
 	MakeReadme()
@@ -66,6 +67,7 @@ func MakeReadme() {
 			sn = sn + makeSocial(memberData.Yeswehack,"yeswehack","https://yeswehack.com/")
 			sn = sn + makeSocial(memberData.Reddit,"reddit","https://www.reddit.com/r/")
 			sn = sn + makeSocial(memberData.Stackoverflow,"stackoverflow","https://stackoverflow.com/users/")
+			sn = sn + makeSocial(memberData.Medium,"medium","https://medium.com/@")
 			readme = readme + memberData.Name + " | " + site + " | " + mt + " | " + sn + " |\n"
 		}
 	}
