@@ -13,6 +13,8 @@
 | youtube   | youtube link         | https://youtube.com/c/하훌 |
 | instagram | instagram username   | hahwul_                   |
 | facebook  | facebook username    |                           |
+| stackoverflow | $uid/$name       | 11547708/hahwul          |
+| reddit    | reddit username      |                           |
 
 ## Example of TOML
 ```toml
@@ -22,6 +24,7 @@ hackerone = "hahwul"
 bugcrowd = "hahwul"
 twitter = "hahwul"
 github = "hahwul"
-instagram = "hahwul_"
+instagram = "hahwul___"
 youtube = "https://youtube.com/c/하훌"
+stackoverflow = "11547708/hahwul"
 ```
