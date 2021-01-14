@@ -2,6 +2,7 @@ package main
 import (
 	"fmt"
 	"os"
+	"time"
 	"io/ioutil"
 	"strings"
 	toml "github.com/pelletier/go-toml"
@@ -77,7 +78,8 @@ func MakeReadme() {
 	footData, _ := ioutil.ReadAll(foot)
 	_ = headData
 	_ = footData
-	body := string(headData) + readme + string(footData)
+	t := time.Now().Format("2006-01-02 15:04:05")
+	body := string(headData) + readme + string(footData) + "\nlast changed "+t
 	fmt.Println("======================result====================")
 	fmt.Println(body)
 	fmt.Println("======================command===================")
