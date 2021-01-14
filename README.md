@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/PRs-welcome-cyan">
   <img src="https://github.com/hahwul/MemBi/workflows/CodeQL/badge.svg">
   <img src="https://github.com/hahwul/MemBi/workflows/Contributors/badge.svg">
+  <img src="https://github.com/hahwul/MemBi/workflows/Distribute/badge.svg">
 </p>
 
 ## 🤔 What is MemBi? 
