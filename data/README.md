@@ -5,14 +5,14 @@ if your name is `alice`
 | --------- | -------------------- | ------------------------- |
 | name      | name                 | alice                    |
 | site      | blog, website, etc.. | https://www.google.com    |
-| twitter   | twitter username     | alice                    |
+| twitter   | twitter username(`@` Excluding)     | alice                    |
 | github    | github username      | alice                    |
 | hackerone | hackerone username   | alice                    |
 | bugcrowd  | bugcrowd username    | alice                    |
 | intigriti | intigriti username   | alice                     |
 | yeswehack | yeswehack username   | alice                     |
-| medium    | medium username      | alice                     |
-| youtube   | youtube link         | https://www.youtube.com/user/JFlaMusic |
+| medium    | medium username(`@` Excluding)      | alice                     |
+| youtube   | your channel link         | https://www.youtube.com/user/JFlaMusic |
 | instagram | instagram username   | alice00543                |
 | facebook  | facebook username    | alice                |
 | stackoverflow | $uid/$name       | 11547708/alice          |
